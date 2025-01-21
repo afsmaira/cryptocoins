@@ -1,1 +1,1 @@
-# cryptocoins
+# CryptoCoins Bot
